@@ -4,14 +4,12 @@
 
 ## Informazioni sul documento
 
-|  |  |
-| --- | --- |
 | **Prodotto** | ScuolaChill, gestionale scolastico |
-| **Team** | Individuale (1 persona) |
+| --- | --- |
 | **Autori** | Alessandro Cappelletto |
 | **Versione** | 0.4 |
 | **Data** | 09/10/2026 |
-| **Stato** | In revisione |
+| **Stato** | Bozza |
 
 ### Storico delle versioni
 
@@ -48,6 +46,8 @@ Priorità **MoSCoW**: i *Must* coprono per intero la traccia; i *Should* sono ne
 - **Valutazione** (Must): voti in bozza e pubblicazione, modifica tracciata, punteggio suggerito, libretto con media indicativa, pagina iniziale dello studente (DOC-03, STU-03, STU-05).
 - **Scrutini** (Should): proposte di voto, esito finale del coordinatore, pubblicazione in due gruppi (prima le classi dell'ultimo anno), rettifica tracciata (DOC-04, DIR-07, STU-04).
 - **Notifiche** (Should): nell'applicazione per tutti gli eventi, via email solo per quelli importanti (ACC-05).
+
+**Corsi ITS.** L'applicazione è valida anche per gli ITS, con le modifiche necessarie fatte ad hoc solo per loro (per esempio struttura dei corsi e valutazione), da definire in una versione successiva.
 
 ### Cosa non è incluso
 
