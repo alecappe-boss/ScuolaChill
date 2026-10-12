@@ -84,7 +84,7 @@ Priorità **MoSCoW**: i *Must* coprono per intero la traccia; i *Should* sono ne
 
 ### La scuola che abbiamo immaginato
 
-Una scuola secondaria di secondo grado statale a indirizzo tecnologico, in provincia di Venezia, con cinque anni di corso e quattro sezioni per anno. Le dimensioni sono ricavate da una scuola reale, la **SFP Don Bosco di San Donà di Piave**: 20 classi, 413 allievi e 21 formatori dipendenti nel 2024/25 (*Bilancio Sociale 2024/2025*, Fondazione Salesiani per la Formazione Professionale Italia Nord Est). Da quella sede prendiamo le dimensioni, non l'ordinamento.
+Una scuola secondaria di secondo grado statale con cinque anni di corso e quattro sezioni per anno. Le dimensioni sono ricavate da una scuola reale, la **SFP Don Bosco di San Donà di Piave**: 20 classi, 413 allievi e 21 formatori dipendenti nel 2024/25 (*Bilancio Sociale 2024/2025*, Fondazione Salesiani per la Formazione Professionale Italia Nord Est). Da quella sede prendiamo le dimensioni, non l'ordinamento.
 
 |  | Valore |
 | --- | --- |
