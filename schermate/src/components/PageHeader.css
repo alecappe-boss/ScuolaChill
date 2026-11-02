@@ -1,0 +1,24 @@
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.page-header-titolo {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--blu-scuro);
+}
+
+.page-header-sottotitolo {
+    margin: 4px 0 0;
+    font-size: 14px;
+    color: var(--testo-secondario);
+}
+
+.page-header-azioni {
+    display: flex;
+    gap: 12px;
+}

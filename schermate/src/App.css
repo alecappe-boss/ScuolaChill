@@ -1,0 +1,22 @@
+.app {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    flex-shrink: 0;
+}
+
+.contenuto {
+    flex: 1;
+    min-width: 0;
+    padding: 24px 28px;
+    background: var(--sfondo-pagina);
+}
+
+.classi-griglia {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    margin-top: 24px;
+}

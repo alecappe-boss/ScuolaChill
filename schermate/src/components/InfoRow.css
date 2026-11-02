@@ -1,0 +1,17 @@
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+}
+
+.info-row-etichetta {
+    color: var(--testo-secondario);
+}
+
+.info-row-valore {
+    font-weight: 600;
+    color: var(--blu-scuro);
+    text-align: right;
+}

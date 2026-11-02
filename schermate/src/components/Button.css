@@ -1,0 +1,38 @@
+.btn {
+    padding: 10px 18px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btn-primario {
+    background: var(--verde);
+    color: var(--testo-chiaro);
+}
+
+.btn-primario:hover {
+    filter: brightness(1.1);
+}
+
+.btn-secondario {
+    border-color: var(--bordo);
+    background: var(--testo-chiaro);
+    color: var(--blu-scuro);
+}
+
+.btn-secondario:hover {
+    background: var(--sfondo-pagina);
+}
+
+.btn-tonale {
+    padding: 8px 14px;
+    background: #dcf0ec;
+    color: var(--verde);
+}
+
+.btn-tonale:hover {
+    background: #cbe7e1;
+}

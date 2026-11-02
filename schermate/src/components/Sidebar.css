@@ -1,0 +1,116 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 240px;
+    height: 100vh;
+    padding: 16px 12px;
+    background: var(--blu-scuro);
+    color: var(--testo-chiaro);
+}
+
+/* Logo */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 4px;
+}
+
+.logo-icona {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
+    background: var(--giallo);
+    color: var(--blu-scuro);
+    font-weight: 700;
+}
+
+.logo-nome {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* Navigazione */
+.sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background: none;
+    color: var(--testo-chiaro-attenuato);
+    font: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background: var(--sfondo-attivo);
+    color: var(--testo-chiaro);
+}
+
+.nav-item.attiva {
+    border-color: var(--bordo-chiaro);
+    background: var(--sfondo-attivo);
+    box-shadow: inset 3px 0 0 var(--giallo);
+    color: var(--testo-chiaro);
+}
+
+.icona {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+}
+
+/* Utente */
+.user-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: auto;
+    padding: 16px 4px 0;
+    border-top: 1px solid var(--bordo-chiaro);
+}
+
+.user-avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--verde);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.user-nome {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.user-ruolo {
+    font-size: 14px;
+    color: var(--testo-chiaro-attenuato);
+}
